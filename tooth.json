@@ -1,0 +1,15 @@
+{
+    "name": "LSE-JS-DripLeafPatch",
+    "version": "1.0.0",
+    "description": "修复大型垂滴叶和区块加载问题的LSE插件，支持刷物功能",
+    "tooth": "github.com/cjxpj/LSE-JS-DripLeafPatch",
+    "placement": [
+        {
+            "source": "LSE-JS-DripLeafPatch.js",
+            "target": "plugins/LSE-JS-DripLeafPatch.js"
+        }
+    ],
+    "possession": [
+        "plugins/LSE-JS-DripLeafPatch.js"
+    ]
+}
